@@ -18,6 +18,7 @@
     "build:functions": "netlify-lambda build assets/lambda",
     "build:preview": "npm run build -D -F",
     "clean": "rimraf public resources functions",
+    "firebase": "firebase",
     "lint": "npm run -s lint:scripts && npm run -s lint:styles && npm run -s lint:markdown",
     "lint:scripts": "eslint assets/js assets/lambda config",
     "lint:styles": "stylelint \"assets/scss/**/*.{css,sass,scss,sss,less}\"",
@@ -49,5 +50,8 @@
     "standard-version": "^9.1",
     "stylelint": "^13.8",
     "stylelint-config-standard": "^20.0"
+  },
+  "dependencies": {
+    "firebase-tools": "^9.2.1"
   }
 }
