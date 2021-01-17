@@ -2,10 +2,7 @@
 title: "Kolbaska"
 description: "Russian easy dessert, no baking required"
 lead: "Russian easy dessert, no baking required"
-date: 2020-10-06T08:50:29+00:00
-lastmod: 2020-10-06T08:50:29+00:00
 draft: false
-editPage: true
 images: []
 menu:
   category:
@@ -16,7 +13,7 @@ toc: true
 
 ## Ingredients
 
-- 1 tbsp cacao poweder
+- 1 tbsp cocoa powder
 - 200gr butter
 - 3 tbsp water
 - 1 egg
