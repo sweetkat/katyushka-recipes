@@ -13,10 +13,10 @@ toc: true
 ## Ingredients
 
 - 1 cup sugar
-- ¾ cup butter
+- ¾ cup softened butter
 - 1 cup mashed bananas
 - ½ cup milk
-- 1 ¾ cups flour
+- 1¾ cups flour
 - 1 egg
 - 1 tsp bicard soda
 - a pinch of salt
