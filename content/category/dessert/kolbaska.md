@@ -7,7 +7,6 @@ images: []
 menu:
   category:
     parent: "dessert"
-weight: 100
 toc: true
 ---
 
