@@ -13,7 +13,7 @@ toc: true
 ## Ingredients
 
 - 1 cup sugar
-- ¾ cup softened butter
+- 100gr softened butter
 - 1 cup mashed bananas
 - ½ cup milk
 - 1¾ cups flour
