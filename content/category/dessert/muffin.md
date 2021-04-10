@@ -25,7 +25,7 @@ toc: true
  - Berry: 1 tsp vanilla extract + 1 cup of fresh berries
  - Orange: replace milk with orange juice + 1 tbsp of orange zest + 1 cup of fresh cranberries
  - Cinnamon: 1 tsp cinnamon + 1 cup of diced apples
- - Lemon poppy seed: replace milk with lemon juice + 1 tbsp of lemon zest + 1 tsp of poppy seeds
+ - Lemon poppy seed (or chia): replace milk with lemon juice + 1 tbsp of lemon zest + 1 tsp of poppy seeds
  - Chocolate chip: 1 tsp vanilla extract + 1 cup chocolate chips
 
 ## Steps
