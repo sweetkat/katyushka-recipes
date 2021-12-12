@@ -18,7 +18,7 @@ toc: true
 - ½ cup milk
 - 1¾ cups flour
 - 1 egg
-- 1 tsp bicard soda
+- 1 tsp bicarb soda
 - a pinch of salt
 
 ## Steps
